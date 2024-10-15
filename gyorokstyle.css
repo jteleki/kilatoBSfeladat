@@ -1,0 +1,14 @@
+body{
+    background-image: url("kilato_forras/back.jpg");
+    background-size: cover;
+}
+#cim{
+    background-image: url("kilato_forras/panorama.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.magas{
+    height: 190px;
+    vertical-align: middle;
+}
